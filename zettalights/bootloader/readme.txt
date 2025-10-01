@@ -1,4 +1,5 @@
-# Bootloader V0.1 contains generic USB VID/PID while attempting to get assigned PID. 
+# Bootloader v0.1 contains generic USB VID/PID while attempting to get assigned PID. 
+# Bootloader v1_2505 contains USB VID/PID for requested 2505 PID on 1209 VID via pid.codes. 
 
 # Build of bootloader was accomplished with the uf2-samdx1 repo and WSL on Windows 11. https://github.com/microsoft/uf2-samdx1.
 
@@ -13,8 +14,12 @@
 
 # Command Notes: 
 
-# .\openocd -f C:\openocd\OpenOCD-20250710-0.12.0\share\openocd\scripts\board\samd21.cfg
-# flash write_image erase C:\\openocd\\zlcustom_v0.bin 0x0000
+# C:\openocd\OpenOCD-20250710-0.12.0\bin\openocd.exe -f C:\openocd\OpenOCD-20250710-0.12.0\share\openocd\scripts\board\samd21.cfg
+# PUTTY > localhost:4444
+# halt
+# flash write_image erase C:\\openocd\\bootloader-zlcustom-v1_2505.bin 0x0000
+
+# Double tap reset button > should show ZETTALIGHTS USB disk for UF2 uploads. 
 
 
 # Arduino IDE notes:
