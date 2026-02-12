@@ -1,6 +1,6 @@
 /*
 * ZettaLights Controller program written by Josh Boone (Zettabit Fox) 
-* Converted for SAMD21 from original ARM. 
+* Converted for SAMD21 from original AVR. 
 *
 * Uses ArduinoFFT library for better FFT performance on ARM Cortex-M0+
 *
