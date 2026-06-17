@@ -74,13 +74,15 @@ Hand-tight is sufficient — these are threaded to snug up firmly without tools.
 
 Slide the LED rod assembly into the assembled blade shell from the base end. Feed it tip-first. The base insert flange will seat against the open end of the base segment. The JST connector trails out the bottom.
 
+Once fully assembled the led strips can be pushed all the way in until they bottom out at the tip. They should stay where they are but you can also put a dab of hot glue at the base if you find them moving too much.
+
 > The LED rod should fit snugly inside the 12mm ID bore. If it catches, check that the channel inserts are all aligned in the groove.
 
 ---
 
 ## Phase 3 — Handle Connection
 
-### Step 7 — JST connector closeup
+### Step 7 — JST connectors
 
 ![JST connector at blade base](photos/photo_8_2026-06-17_00-31-32.jpg)
 
@@ -90,10 +92,9 @@ With the blade assembled, the JST connector (3-wire: red, white, green) extends 
 
 ![JST being plugged in](photos/photo_6_2026-06-17_00-31-32.jpg)
 
-Hold the handle with the threaded blade-end opening facing up. Connect the JST connector into the handle JST socket inside. The connector is keyed — it only goes in one way. Once connected, thread the blade base segment onto the handle using the open cap. Hand-tight.  
-I found holding the blade with knees, holding handle still/steady in one hand and screwing the cap on is easiest. Keeping the blade and handle mostly stable while screwing will precent the LEDs from twisting inside for the best visual apprearance.  
+Connect the blade assembly JST connector into the handle JST socket. The connector is keyed — it only goes in one way.  
 
-> **Polarity note:** The JST connector is keyed but double-check that it seats fully before threading the blade on.
+> **Polarity note:** The JST connector is keyed but double-check that it seats fully before threading the blade on. It should click. 
 
 ### Step 9 — Power on test
 
@@ -106,13 +107,15 @@ Before finishing assembly, power on and verify the blade lights. The controller 
 
 ![Single blade final assembly lit](photos/photo_2_2026-06-17_00-31-32.jpg)
 
-Attach the closed cap onto the pommel end of the handle (bayonet fit — insert and twist).
+Once connected, thread the blade base segment onto the handle using the open cap. Hand-tight. The blade should not move freely. 
+
+I found holding the blade with knees, holding handle still/steady in one hand and screwing the cap on is easiest. Keeping the blade and handle mostly stable while screwing will prevent the LEDs from twisting inside for the best visual apprearance.  
 
 ---
 
 ## Phase 4 — Double Blade Config
 
-Repeat Phase 1–3 for the second blade.
+Repeat Phase 1–3 for the second blade. Use the coupler or the 2x closed caps as desired.
 
 > **Double blade config:** Both blades buttons will line up if slotted slightly offset of eachother for the bayonet twist action. 
 
