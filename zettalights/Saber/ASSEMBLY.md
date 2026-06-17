@@ -1,4 +1,4 @@
-# ZL Lightsaber — Assembly Guide
+# ZL Saber — Assembly Guide
 **Double-Blade Configuration** | V2.2
 
 ---
@@ -62,7 +62,7 @@ You should now have a complete LED rod: base insert (with JST flange) → 3 chan
 ![Blade shells assembled](photos/photo_15_2026-06-17_00-31-32.jpg)
 
 Screw the blade shell segments together in order:
-1. Blade base (has the flange without threads)
+1. Blade base (has the flange base without inside threads)
 2. Blade mid × 2
 3. Blade tip
 
