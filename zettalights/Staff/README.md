@@ -1,4 +1,4 @@
-// V2 Staff (Modified open SCAD from Sabed design. Flat tip vs saber rounded, thicker segments up to 33mm from 24, slightly longer segments)  
+// V2 Staff (Modified open SCAD from Saber design. Flat tip vs saber rounded, thicker segments up to 33mm from 24, slightly longer segments)  
 //  
 //    Uniform staff segments: 33mm OD / 12mm ID  
 //    Threaded staff segment-to-segment joints  
