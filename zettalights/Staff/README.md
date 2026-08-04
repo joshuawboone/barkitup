@@ -1,5 +1,6 @@
 // V2 Staff (Modified open SCAD from Saber design. Flat tip vs saber rounded, thicker segments up to 33mm from 24, slightly longer segments)  
 //  Latest files designed for Bambu H2 series. Check the archive for smaller sizes.  
+//  
 //    Uniform staff segments: 33mm OD / 12mm ID  
 //    Threaded staff segment-to-segment joints  
 //    Modular LED channel inserts (fit inside 12mm ID bore)  
