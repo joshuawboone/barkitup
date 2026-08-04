@@ -59,7 +59,7 @@ B_THREAD_H = 2.5;
 B_TURNS    = 3;
 B_CLR      = 0.40;
 B_STEPS    = 32;
-FEM_D      = 18.4 + 7;  // female bore diameter — balanced walls
+FEM_D      = 18.4;  // female bore diameter — balanced walls
 CHAMFER_H  = 4.0;       // bore transition zone (FEM_D → BLADE_ID)
 
 // Seg1 retention ring
