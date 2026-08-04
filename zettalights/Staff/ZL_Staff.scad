@@ -1,9 +1,9 @@
 // ================================================================
-// V3 HANDLE — Standalone module file
+// V3 Staff  
 //
-// Extracted from lightsaber.scad. Contains all geometry needed for
-// the v3 handle: threads, inverted-bayonet slots, PCB trace extrusions,
-// insert helpers, and the main v2_handle() assembly module.
+// 
+// 
+// 
 //
 // USAGE: Uncomment one of the render lines at the bottom.
 // ================================================================
