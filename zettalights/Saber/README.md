@@ -1,4 +1,4 @@
-// V2 REDESIGN:	version 2.2  - Latest files designed for Bambu H2 series. Check the archive for smaller sizes.
+// V2 REDESIGN:	version 2.2  - Latest files designed for Bambu H2 series. Check the archive for smaller sizes.  
 //  
 //    Uniform blade segments: 24mm OD / 12mm ID / 6mm wall  
 //    Threaded blade segment-to-segment joints  
