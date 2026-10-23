@@ -43,3 +43,5 @@
 // 2x seg1 - Staff base segments - retention ring for handle sandwich  
 // 4x seg2-3 - a1 mini (2x seg2 of 256 or no mid seg needed on 320/240 - seg 2 on 320/340 is tip segment)  
 // 2x seg4 - a1 mini (2x seg3 of 256 - 2x seg2 of 320/340)  
+//    
+// Copyright (c) 2025 Joshua (Zettabit Fox) Boone    
