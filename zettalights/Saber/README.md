@@ -68,3 +68,5 @@
 // /Hangers/  
 //  
 // (single blade modifier - drop coupler and coupler inserts - half everything else - closed cap becomes non-optional)  
+//  
+//  Copyright (c) 2025 Joshua (Zettabit Fox) Boone   
